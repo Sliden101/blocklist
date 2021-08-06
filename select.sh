@@ -116,6 +116,7 @@ case $enabled in
 		echo "https://blocklistproject.github.io/Lists/torrent.txt" >> lists.txt
 		echo "https://blocklistproject.github.io/Lists/basic.txt" >> lists.txt
 		echo "https://blocklistproject.github.io/Lists/smart-tv.txt" >> lists.txt
+		echo "https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt" >> lists.txt
 	;;
 esac
 
