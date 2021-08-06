@@ -86,6 +86,7 @@ case $enabled in
 		echo "https://blocklistproject.github.io/Lists/facebook.txt" >> lists.txt
 		echo "https://blocklistproject.github.io/Lists/tiktok.txt" >> lists.txt
 		echo "https://blocklistproject.github.io/Lists/whatsapp.txt" >> lists.txt
+		echo "https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/SpotifyBlocklist.txt" >>lists.txt
 	;;&
 	*virusses* )
 		echo "https://blocklistproject.github.io/Lists/malware.txt" >> lists.txt
